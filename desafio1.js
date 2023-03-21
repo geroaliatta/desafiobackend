@@ -60,9 +60,8 @@ class ProductManager{
 }
 
 
-
 // PROCESO DE TESTING
-console.log("INICIA TESTIIIIIIIIIIiiiiiiiIIING");
+
 // Se creará una instancia de la clase “ProductManager”.
 const productManager = new ProductManager();
 
